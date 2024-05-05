@@ -3,6 +3,9 @@
 
 Welcome to the Stock Capital Asset Pricing Model (CAPM) Analysis Web App. This interactive tool is designed to help you perform CAPM analysis on a selection of stocks. Whether you're an investor, financial analyst, or simply curious about stock market trends, this web app is here to assist you in calculating and analyzing stock returns and beta values.
 
+## Screenshot
+![CAPM](https://github.com/namangaurr/stock-CAPM-Analysis/assets/114846431/b84b3ccd-9996-471a-b912-f07e6a82d396)
+
 ## Features
 
 Here's what you can do with this web app:
